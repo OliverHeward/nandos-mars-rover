@@ -1,0 +1,43 @@
+# Node modules directory
+node_modules/
+
+# Compiled output directory
+dist/
+
+# TypeScript build info file
+*.tsbuildinfo
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Jest coverage directory
+coverage/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# Optional npm cache directory
+.npm/
+
+# Optional yarn cache directory
+.yarn/
+
+# Optional lock file
+package-lock.json
+yarn.lock
